@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Unique Cursor-Driven Website Navigation Experience - DEMO - wannabedev.io</title>
+		<meta name="description" content="In this blog post, we'll explore a unique website navigation experience that combines HTML, CSS, and JavaScript to create a distinctive cursor-driven interaction. " />
+		<meta name="keywords" content="blob, gooey, cursor, javascript, image, background, css3, animation" />
+		<meta name="author" content="Mirza Hodzic" />
+		<link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="assets/css/demo.css" />
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SJR1BPWFF0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-SJR1BPWFF0', {
+        page_path: window.location.pathname,
+      });
+    </script>
+
+  </head>
+  <body>
+    
+    <!-- loader START -->
+    <div class="loader">
+      <div class="lds-ripple">
+        <div></div>
+        <div></div>
+      </div>
+    </div>
+    <!-- loader END -->
+
+    <!-- cursor-blob START -->
+    <div id="cursor-blob"></div>
+    <!-- cursor-blob END -->
+
+    <!-- header START -->
+    <header>
+      <div class="logo">
+        <a href="https://wannabedev.io"><span>blob</span></a>
+      </div>
+      <nav class="navigation">
+        <li><a href="https://wannabedev.io"><span>Home</span></a></li>
+        <li><a href="https://wannabedev.io/tutorials/unique-cursor-driven-website-navigation-experience"><span>Back to Article</span></a></li>
+        </nav>
+    </header>
+    <!-- header END -->
+
+    <!-- blob START -->
+    <section class="blob">
+      <ul class="nav">
+        <li class="nav_link" data-bcg="assets/img/img-1.jpeg"><span>1</span></li>
+        <li class="nav_link" data-bcg="assets/img/img-2.jpeg"><span>2</span></li>
+        <li class="nav_link" data-bcg="assets/img/img-3.jpeg"><span>3</span></li>
+        <li class="nav_link" data-bcg="assets/img/img-4.jpeg"><span>4</span></li>
+        <li class="nav_link" data-bcg="assets/img/img-5.jpeg"><span>5</span></li>
+        <li class="nav_link" data-bcg="assets/img/img-6.jpeg"><span>6</span></li>
+      </ul>
+    </section>
+    <!-- blob END -->
+    
+    <script src="https://unpkg.com/imagesloaded@4.1.4/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/demo.js"></script>
+
+  </body>
+</html>
