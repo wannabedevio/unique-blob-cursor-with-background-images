@@ -1,12 +1,12 @@
-# Unique Cursor-Driven Website Navigation Experience
+# Unique Blob Cursor with Background Images
 
 In this blog post, we'll explore a unique website navigation experience that combines HTML, CSS, and JavaScript to create a distinctive cursor-driven interaction. 
 
-![Blob Cursor with Background Images](/assets/img/unique-cursor-driven-website-navigation-experience.png)
+![Blob Cursor with Background Images](/assets/img/unique-blob-cursor-with-background-images.png)
 
-[Article on WANNABEDEV](https://wannabedev.io/tutorials/unique-cursor-driven-website-navigation-experience)
+[Article on WANNABEDEV](https://wannabedev.io/tutorials/unique-blob-cursor-with-background-images)
 
-[Demo](https://wannabedev.io/_posts/unique-cursor-driven-website-navigation-experience/demo/index.html)
+[Demo](https://wannabedev.io/_posts/unique-blob-cursor-with-background-images/demo/index.html)
 
 ## Credits
 - [imagesLoaded](https://imagesloaded.desandro.com/) by David DeSandro
