@@ -1,6 +1,6 @@
 # Unique Blob Cursor with Background Images
 
-In this blog post, we'll explore a unique website navigation experience that combines HTML, CSS, and JavaScript to create a distinctive cursor-driven interaction. 
+In this blog post, we'll explore a unique website navigation experience that combines HTML, CSS, and JavaScript to create a distinctive blob cursor interaction. 
 
 ![Blob Cursor with Background Images](/assets/img/unique-blob-cursor-with-background-images.png)
 
